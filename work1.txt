@@ -1,1 +1,4 @@
 Rough work just trying to upload inorder to improve my prgrmmming skills and understand the working of git
+
+
+the edit is how to work on that
